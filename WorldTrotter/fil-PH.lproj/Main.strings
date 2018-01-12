@@ -1,0 +1,21 @@
+
+/* Class = "UITextField"; placeholder = "Value"; ObjectID = "2g0-jW-miW"; */
+"2g0-jW-miW.placeholder" = "Halaga";
+
+/* Class = "UILabel"; text = "Degrees Celsius"; ObjectID = "3w4-hv-6p6"; */
+"3w4-hv-6p6.text" = "Kabuoan ng temperatura";
+
+/* Class = "UITabBarItem"; title = "Map"; ObjectID = "5v1-4c-1Iu"; */
+"5v1-4c-1Iu.title" = "Mapa";
+
+/* Class = "UILabel"; text = "is really"; ObjectID = "Qva-qW-fOD"; */
+"Qva-qW-fOD.text" = "Talaga";
+
+/* Class = "UITabBarItem"; title = "Convert"; ObjectID = "S95-In-wO0"; */
+"S95-In-wO0.title" = "Palit";
+
+/* Class = "UILabel"; text = "100"; ObjectID = "dQf-Ue-o6y"; */
+"dQf-Ue-o6y.text" = "100";
+
+/* Class = "UILabel"; text = "Degrees Fahrenheit"; ObjectID = "mlN-VU-hxt"; */
+"mlN-VU-hxt.text" = "haba ng temperatura";
